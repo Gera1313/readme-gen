@@ -42,16 +42,31 @@ const questions = [
     },
     {
         type: "input",
-        message: "How can we contact you?",
+        message: "Please enter your email address: ",
+        label: "Questions",
+    },
+    {
+        type: "input",
+        message: "Please enter your GitHub profile link: ",
         label: "Questions",
     },
 ];
 
 // TODO: Create a function to write README file
-function writeToFile(fileName, data) {}
+function writeToFile(fileName, data) {
+    fs.writeFile(fileName, generate, (err) =>
+    err ? console.error(err) : console.log("Success!")
+    );
+}
 
 // TODO: Create a function to initialize app
-function init() {}
+function init() {
+    inquirer.prompt(questions)
+    .then((answers) => {
+        console.log("Your README file is generating!")
+        writeToFile("./README.md", generateMarkdown(answers));
+    })
+}
 
 // Function call to initialize app
 init();
