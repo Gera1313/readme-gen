@@ -42,7 +42,7 @@ const questions = [
     },
     {
         type: "input",
-        message: "How can we contact you?"
+        message: "How can we contact you?",
         label: "Questions",
     },
 ];
