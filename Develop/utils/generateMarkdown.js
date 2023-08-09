@@ -26,11 +26,12 @@ function generateMarkdown(data) {
   * [Contributors](#contributors)
   * [Testing](#testing)
   * [Questions](#questions)
-  ## Languages
+  ## Installations
   ## Usage
-  ## Contributors
   ## Testing
+  ## Contributors
   ## Questions
+  ## License
 `;
 }
 

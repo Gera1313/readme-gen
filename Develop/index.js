@@ -18,7 +18,7 @@ const questions = [
     {
         type: "input",
         message: "What files and/or dependecies will you install?",
-        name: "installation",
+        name: "installations",
     },
     {
         type: "input",
