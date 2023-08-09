@@ -18,7 +18,7 @@ const questions = [
     {
         type: "input",
         message: "What files and/or dependecies will you install?",
-        name: "installations",
+        name: "installation",
     },
     {
         type: "input",
@@ -34,7 +34,7 @@ const questions = [
     {
         type: "input",
         message: "How to contribute to this project?", 
-        name: "Contributions"
+        name: "contributions"
     },
     {
         type: "input",
@@ -44,12 +44,12 @@ const questions = [
     {
         type: "input",
         message: "Please enter your email address: ",
-        name: "Questions",
+        name: "questions",
     },
     {
         type: "input",
         message: "Please enter your GitHub profile link: ",
-        name: "Questions",
+        name: "github",
     },
 ];
 
