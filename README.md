@@ -41,7 +41,11 @@ The following image displays the application homepage:
 ## Links
 
 [Repository](https://github.com/Gera1313/9-readme-gen)
-[Video]()
+[Video](https://youtu.be/NOzqGhCcUIk)
+
+## Credits
+[The Full Stack Blog - README Guide](https://coding-boot-camp.github.io/full-stack/github/professional-readme-guide)
+Thank you to my tutor, Mila, for guiding me through this project. 
 
 ## Installation
 inquirer 8.2.4
