@@ -33,6 +33,18 @@ WHEN I click on the links in the Table of Contents
 THEN I am taken to the corresponding section of the README
 ```
 
-## Grading Requirements
+## Usage
+The following image displays the application homepage:
 
+![A generated README file](./Assets/Images/Homepage.png) 
 
+## Links
+
+[Repository](https://github.com/Gera1313/9-readme-gen)
+[Video]()
+
+## Installation
+inquirer 8.2.4
+
+## Licenses
+N/A
