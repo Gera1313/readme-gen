@@ -1,6 +1,6 @@
 # [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)  
   ## Title
-  Roses Are Red 
+  Keep-It-Kandi 
   ## Table of Contents
   * [Description](#Description)
   * [Installations](#Installations)
@@ -11,17 +11,17 @@
   * [GitHub](#github)
   * [License](#license)
   ## Description
-  Information about roses
+  Candy storefront and/or e-commerce
   ## Installations
-  inquirer 8.2.4
+  n/a
   ## Usage
-  For research purposes
+  e-commerce
   ## Testing
-  N/A
+  n/a
   ## Contributors
-  Pay Pal
+  n/a
   ## Questions
-  123@gmail.com
+  n/a
   ## GitHub
-  https://github.com/Gera1313
+  n/a
   ## License
