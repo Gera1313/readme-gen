@@ -1,4 +1,4 @@
-# Node.js Challenge: Professional README Generator
+# Professional README Generator
 
 ## The Project
 
