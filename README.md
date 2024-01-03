@@ -36,7 +36,10 @@ THEN I am taken to the corresponding section of the README
 ## Usage
 The following image displays the application homepage:
 
-![A generated README file](./Assets/Images/Homepage.png) 
+![A generated README file](./Assets/Images/Homepage.png)
+
+## Installation
+inquirer 8.2.4
 
 ## Links
 
@@ -46,9 +49,6 @@ The following image displays the application homepage:
 ## Credits
 [The Full Stack Blog - README Guide](https://coding-boot-camp.github.io/full-stack/github/professional-readme-guide)
 Thank you to my tutor, Mila, for guiding me through this project. 
-
-## Installation
-inquirer 8.2.4
 
 ## Licenses
 N/A
