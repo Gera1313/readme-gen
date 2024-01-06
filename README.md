@@ -43,7 +43,8 @@ inquirer 8.2.4
 
 ## Links
 
-[Repository](https://github.com/Gera1313/9-readme-gen)
+[Repository](https://github.com/Gera1313/readme-gen)
+
 [Video](https://youtu.be/NOzqGhCcUIk)
 
 ## Credits
