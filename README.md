@@ -49,7 +49,9 @@ inquirer 8.2.4
 
 ## Credits
 [The Full Stack Blog - README Guide](https://coding-boot-camp.github.io/full-stack/github/professional-readme-guide)
+
 Thank you to my tutor, Mila, for guiding me through this project. 
 
-## Licenses
-N/A
+## License
+
+## [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
